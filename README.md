@@ -12,7 +12,7 @@ The following **required** functionality is complete:
 - [x] User can view a list of movies currently playing in theaters from The Movie Database.
 - [x] Poster images are loaded using the UIImageView category in the AFNetworking library.
 - [x] User sees a loading state while waiting for the movies API.
-- [x] User can pull to refresh the movie list.
+- [ ] User can pull to refresh the movie list.
 
 The following **optional** features are implemented:
 
@@ -34,14 +34,13 @@ Please list two areas of the assignment you'd like to **discuss further with you
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
-
-<img src='http://imgur.com/0Jz9t48' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/G9zB0"><a href="//imgur.com/G9zB0"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Not sure how to undo the table view and switch over to collection view 
 
 ## License
 
